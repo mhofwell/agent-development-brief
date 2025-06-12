@@ -30,9 +30,9 @@ Simply, Lovable, Complete prioritizes user experience and emotional connection o
 Defintitions: 
 
 [Human-Decides] - Human makes the call, agent implements
-[Agent-Proposes-Human-Decides] - Agent suggests options, human chooses
 [Agent-Decides-Human-Review] - Agent decides and implements, human can override
 [Agent-Decides] - Agent has full authority, no review needed
+[Agent-Proposes-Human-Decides] - Agent suggests options, human chooses
 [Collaborative] - Both parties discuss until consensus reached
 [Already-Decided] - Pre-established in project docs
 
