@@ -32,7 +32,7 @@ Defintitions:
 [Human-Decides] - Human makes the call, agent implements
 [Agent-Proposes-Human-Decides] - Agent suggests options, human chooses
 [Agent-Decides-Human-Review] - Agent decides and implements, human can override
-[Agent-Autonomous] - Agent has full authority, no review needed
+[Agent-Decides] - Agent has full authority, no review needed
 [Collaborative] - Both parties discuss until consensus reached
 [Already-Decided] - Pre-established in project docs
 
@@ -40,7 +40,7 @@ Decision Types:
 
 - Architecture decisions: [Agent-Decides-Human-Review]
 - UX decisions: [Agent-Proposes-Human-Decides]
-- Implementation details: [Agent-Decides-Autonomously]
+- Implementation details: [Agent-Decides]
 - Scope changes: [Human-Decides]
 - Technology choices: [Collaborative]
 
