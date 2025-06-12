@@ -20,7 +20,7 @@ This approach acknowledges that most detailed upfront specifications are wrong a
 
 ## Document Structure
 
-### Required Core Documents (3 files minimum):
+### Required Core Documents (4 files minimum):
 
 1. **main.md** - Orchestrates the review process and sets expectations
 2. **product-requirements.md** - Problem definition, user stories, success metrics, scope boundaries  
