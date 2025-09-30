@@ -1,4 +1,4 @@
-# Agent Development Brief for <PROJECT>
+# Agent Development Brief for PROJECT_NAME
 
 Please review the following project documents in the specified order to get a comprehensive understanding of CatGram:
 
