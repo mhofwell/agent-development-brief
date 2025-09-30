@@ -1,4 +1,4 @@
-# Design Requirements: CatGram (SLC)
+# Design Requirements: <PROJECT>
 
 ## Design Goals
 
