@@ -1,4 +1,4 @@
-# Decision log: CatGram
+# Decision log
 
 ## Instructions for Agent
 Log key decisions as you make them. Include timestamp, what you decided, and brief reasoning. Keep it conversational and useful.
