@@ -1,5 +1,5 @@
 
-# Product Requirements Document: <PROJECT_NAME>
+# Product Requirements Document
 
 ## What are we building? 
 
