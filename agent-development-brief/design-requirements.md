@@ -1,4 +1,4 @@
-# Design Requirements: <PROJECT>
+# Design Requirements
 
 ## Design Goals
 
